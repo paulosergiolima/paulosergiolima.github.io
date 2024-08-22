@@ -14,3 +14,5 @@ a comprehensive set of documentation that will help you customize this website
 further.
 
 Thank you for using Serum!
+
+Very nice, isn't it?
