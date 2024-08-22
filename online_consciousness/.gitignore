@@ -23,4 +23,3 @@ erl_crash.dump
 online_consciousness-*.tar
 
 # The default directory which Serum builds the website into.
-/site/
