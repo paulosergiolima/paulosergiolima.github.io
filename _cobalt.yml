@@ -2,7 +2,7 @@
 site:
   title: cobalt blog
   description: Blog Posts Go Here
-  base_url: paulosergiolima.github.io
+  base_url: "http://paulosergiolima.github.io"
 posts:
   title: mind radio noise
   description: coisas que são inúteis
