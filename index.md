@@ -1,7 +1,7 @@
 ---
 layout: default.liquid
 ---
-## Blog bem legal!
+## Mind radio noise!
 
 link do meu rss: acesse [rss](rss.xml)
 
